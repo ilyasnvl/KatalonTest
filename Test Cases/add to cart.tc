@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>succesfully ad to cart</description>
+   <name>add to cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad078d74-a67f-4949-990c-ee95b7fa2f34</testCaseGuid>
+   <variable>
+      <defaultValue>'$29.99'</defaultValue>
+      <description></description>
+      <id>73d8c600-1723-4bc8-97a8-71f88e989c39</id>
+      <masked>false</masked>
+      <name>expectedPrice</name>
+   </variable>
+</TestCaseEntity>
